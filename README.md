@@ -1,7 +1,7 @@
 # GrimReaper
 by Chomper Studios
-
-- **WebGL Version Available (PC): https://bit.ly/grim-reaper-pc**
+- Unity Project: https://github.com/yoyohohoh/comp290_project
+- WebGL Version Available (PC): https://bit.ly/grim-reaper-pc
 
 ## Contact
 - Tel: +1 (647) 637-0831
