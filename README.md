@@ -52,7 +52,7 @@
 - Demonstration Video: TBA
 - WebGL Version Available (PC): https://yobisaboy.itch.io/grim-reaper-pc
 - Game Download: https://github.com/yobisaboy/GrimReaper
-- Unity Project: https://github.com/yoyohohoh/comp290_project
+- Unity Project: https://github.com/yobisaboy/GrimReaper/tree/main/project/GrimReaper
 
 ## Contact
 - Tel: +1 (647) 637-0831
